@@ -1,5 +1,5 @@
 # 这里是我们的学习计划
-点击编辑 [editor on GitHub](https://github.com/ieffort/ieffort.github.io/edit/main/index.md) 
+点击编辑 [editor on GitHub](https://github.com/wzyandwdl/wzyandwdl.github.io/edit/main/index.md) 
 ## Learning road
 ### 2022.8.24 吴正扬
 ```markdown  
